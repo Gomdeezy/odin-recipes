@@ -1,1 +1,3 @@
-# odin-recipes
+This is a project focusing on HTML and essential, foundamental web design. HTML is used to place the content on a webpage, such as text and imaging. It also has a hierarchy system, using h1 throughh h6, and p all have a structual hierarchy that browsers and programs use to display the information.
+
+I haven't begun CSS yet, but that is what I can use in the future to stylize my webpages. Then javascript is used to add interactability to the webpage.
